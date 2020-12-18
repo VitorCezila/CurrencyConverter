@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorldCoin</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+</resources>

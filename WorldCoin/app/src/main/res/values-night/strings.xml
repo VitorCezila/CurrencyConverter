@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="convert">Convert</string>
+</resources>
