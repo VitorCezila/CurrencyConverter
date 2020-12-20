@@ -3,4 +3,5 @@
     <string name="currency_converter">Currency Converter</string>
     <string name="enter_the_amount">Enter the Amount</string>
     <string name="convert">Convert</string>
+    <string name="user_input">User input</string>
 </resources>

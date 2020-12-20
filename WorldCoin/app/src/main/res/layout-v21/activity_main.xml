@@ -40,10 +40,7 @@
             android:id="@+id/txt_amount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:autofillHints=""
-            android:contentDescription="@string/user_input"
-            android:ems="10"
-            android:inputType="number" />
+            android:ems="10" />
 
     </LinearLayout>
 
@@ -94,15 +91,13 @@
 
         <Button
             android:id="@+id/convert_btn"
-            android:layout_width="250dp"
-            android:layout_height="40dp"
-            android:background="@drawable/custom_button"
-            app:backgroundTint="@null"
-            android:fontFamily="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/convert"
-            android:textAllCaps="false"
+            android:textSize="15sp"
             android:textColor="#FFFF"
-            android:textSize="15sp" />
+            android:background="@drawable/custom_button"
+            android:backgroundTint="@color/background_button_color"/>
     </LinearLayout>
 
 </LinearLayout>
